@@ -1,0 +1,1 @@
+export const pagesize = [15, 20, 30, 40, 50]
